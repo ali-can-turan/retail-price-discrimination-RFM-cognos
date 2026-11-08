@@ -14,7 +14,7 @@ Net Revenue Change: +35,542.09
 
 [View dashboard for all insights (pdf)](Online_Retailer_II_DB.pdf)
 
-[View all the details, insights and steps through this project (docx)](report.pdf)
+[View all the details, insights and steps through this project (pdf)](report.pdf)
 
 [View cleaned and filtered data used in this project (xlsx)](online_retail_II_cleaned_and_filtered.xlsx)
 
